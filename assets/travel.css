@@ -1,6 +1,6 @@
 /* rectangle1 */
 .rectangle1 {
-  background-image: url(assets/images/Rectangle\ 19290.png);
+  /* background-image: url(assets/images/Rectangle\ 19290.png); */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -131,7 +131,7 @@ nav a {
   box-shadow: 0px 20px 35px 0px rgba(223, 105, 81, 0.15);
 }
 .eclipse {
-  background-image: url(/assets/images/slash.png);
+  /* background-image: url(/assets/images/slash.png); */
   background-size: 300px;
   height: 230px;
   padding-left: 100px;

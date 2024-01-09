@@ -1,6 +1,6 @@
 /* rectangle1 */
 .rectangle1 {
-  background-image: url(/assets/images/Rectangle\ 19290.png);
+  background-image: url(assets/images/Rectangle\ 19290.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -411,12 +411,12 @@ nav a {
   line-height: normal;
 }
 .femaleclimber {
-  background-image: url(assets/images/female\climber.png);
+  background-image: url(/assets/images/female\ climber.png);
   background-repeat: no-repeat;
   background-size: 200px;
 }
 .field {
-  background-image: url(assets/images/field.png);
+  background-image: url(/assets/images/field.png);
   background-repeat: no-repeat;
   background-size: 200px;
 }
@@ -430,22 +430,22 @@ nav a {
   display: flex;
 }
 .barcelona {
-  background-image: url(assets/images/greenhill.png);
+  background-image: url(/assets/images/greenhill.png);
   background-repeat: no-repeat;
   background-size: 200px;
 }
 .maldives {
-  background-image: url(assets/images/cuacasian.png);
+  background-image: url(/assets/images/cuacasian.png);
   background-repeat: no-repeat;
   background-size: 200px;
 }
 .barcelona1 {
-  background-image: url(assets/images/sea.png);
+  background-image: url(/assets/images/sea.png);
   background-repeat: no-repeat;
   background-size: 200px;
 }
 .pakistan {
-  background-image: url(assets/images/mountains.png);
+  background-image: url(/assets/images/mountains.png);
   background-repeat: no-repeat;
   background-size: 200px;
 }

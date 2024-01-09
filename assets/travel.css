@@ -326,7 +326,7 @@ nav a {
 }
 
 .hiker {
-  background: url(/assets/images/hiker.png);
+  background: url(/assets/images/gray\ effect.png);
   background-repeat: no-repeat;
   background-size: 200px;
 }
@@ -360,22 +360,22 @@ nav a {
   line-height: normal;
 }
 .airplane {
-  background-image: url(/assets/images/airplane.png);
+  background-image: url(/assets/images/gray\ effect.png);
   background-repeat: no-repeat;
   background-size: 200px;
 }
 .climber {
-  background-image: url(/assets/images/climber.png);
+  background-image: url(/assets/images/gray\ effect.png);
   background-repeat: no-repeat;
   background-size: 200px;
 }
 .angeles {
-  background-image: url(/assets/images/los\ angeles.png);
+  background-image: url(/assets/images/gray\ effect.png);
   background-repeat: no-repeat;
   background-size: 200px;
 }
 .singlep {
-  background-image: url(/assets/images/singlep.png);
+  background-image: url(/assets/images/gray\ effect.png);
   background-repeat: no-repeat;
   background-size: 200px;
   height: 410px;
@@ -411,12 +411,12 @@ nav a {
   line-height: normal;
 }
 .femaleclimber {
-  background-image: url(/assets/images/female\ climber.png);
+  background-image: url(/assets/images/gray\ effect.png);
   background-repeat: no-repeat;
   background-size: 200px;
 }
 .field {
-  background-image: url(/assets/images/field.png);
+  background-image: url(/assets/images/gray\ effect.png);
   background-repeat: no-repeat;
   background-size: 200px;
 }
@@ -430,22 +430,22 @@ nav a {
   display: flex;
 }
 .barcelona {
-  background-image: url(/assets/images/greenhill.png);
+  background-image: url(/assets/images/gray\ effect.png);
   background-repeat: no-repeat;
   background-size: 200px;
 }
 .maldives {
-  background-image: url(/assets/images/cuacasian.png);
+  background-image: url(/assets/images/gray\ effect.png);
   background-repeat: no-repeat;
   background-size: 200px;
 }
 .barcelona1 {
-  background-image: url(/assets/images/sea.png);
+  background-image: url(/assets/images/gray\ effect.png);
   background-repeat: no-repeat;
   background-size: 200px;
 }
 .pakistan {
-  background-image: url(/assets/images/mountains.png);
+  background-image: url(/assets/images/gray\ effect.png);
   background-repeat: no-repeat;
   background-size: 200px;
 }
@@ -464,7 +464,7 @@ nav a {
 
 /* rectangle 6 */
 .rectangle6 {
-  background-image: url(/assets/images/h1-background-img-1\ 1.png);
+  background-image: url(/assets/images/gray\ effect.png);
   background-repeat: no-repeat;
   flex-shrink: 0;
   background-size: 1400px;

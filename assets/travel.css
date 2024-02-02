@@ -1,21 +1,22 @@
 /* rectangle1 */
 .rectangle1 {
+  background-image: url("https://res.cloudinary.com/dn2xrrll5/image/upload/v1706876764/Rectangle_19290_pf0auj.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   height: 650px;
   flex-shrink: 0;
-  padding-top: 20px;
+  padding-top: 5%;
 }
 header {
   display: flex;
-  gap: 80px;
+  gap: 3%;
   justify-content: center;
   align-items: center;
 }
 #logo {
-  width: 126.603px;
-  height: 64.18px;
+  width: 9rem;
+
   flex-shrink: 0;
 }
 
@@ -27,22 +28,19 @@ nav a {
   font-weight: 500;
   line-height: normal;
   text-decoration: none;
-  margin-right: 20px;
+  margin-right: 15px;
 }
 #about {
   border-bottom: solid 2px #df6951;
   padding-bottom: 3px;
 }
 .signin {
-  height: 50px;
-  width: 140px;
-  background-color: #df6951;
-  margin-right: 0px;
-  margin-left: 100px;
+  background-color: #df6951 !important;
+  color: white !important;
 }
 .title {
-  margin-top: 240px;
-  margin-bottom: 283px;
+  margin-top: 20%;
+  margin-bottom: 20%;
 }
 #read {
   /* margin-left: 100px; */
@@ -74,8 +72,7 @@ nav a {
 /* rectangle2 */
 .context {
   background: #fff;
-  padding-top: 100px;
-  float: right;
+  padding-top: 15%;
 }
 #promotion {
   color: #df6951;
@@ -84,12 +81,11 @@ nav a {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  letter-spacing: 1.8px;
+  letter-spacing: 1px;
   text-transform: uppercase;
 }
 #provide {
-  width: 400px;
-  height: 90px;
+  width: 90%;
   flex-shrink: 0;
   color: #181e4b;
   font-family: Volkhov;
@@ -99,8 +95,7 @@ nav a {
   line-height: 40px;
 }
 #labore {
-  width: 300px;
-  height: 103px;
+  width: 70%;
   flex-shrink: 0;
   color: var(--black, #000);
   font-family: Poppins;
@@ -130,8 +125,9 @@ nav a {
   box-shadow: 0px 20px 35px 0px rgba(223, 105, 81, 0.15);
 }
 .eclipse {
-  /* background-image: url(./assets/images/slash.png); */
-  background-size: 300px;
+  background-image: url("https://res.cloudinary.com/dn2xrrll5/image/upload/v1706876755/slash_qhz0xl.png");
+  background-size: cover;
+  background-repeat: no-repeat;
   height: 230px;
   padding-left: 100px;
   padding-top: 100px;
@@ -156,11 +152,10 @@ nav a {
   flex-shrink: 0;
 }
 .rectangle2 {
-  /* padding: 50px; */
-  padding-top: 100px;
-  padding-bottom: 50px;
-  padding-left: 100px;
-  padding-right: 50px;
+  padding-top: 10%;
+  padding-bottom: 5%;
+  padding-left: 10%;
+  padding-right: 5%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -169,7 +164,10 @@ nav a {
 /* rectangle3 */
 
 .rectangle3 {
-  /* background-image: url(./assets/images/bg3.png); */
+  background-image: url("https://res.cloudinary.com/dn2xrrll5/image/upload/v1706876754/bg3_ie6ihd.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
   height: 600px;
   flex-shrink: 0;
 }
@@ -199,17 +197,17 @@ nav a {
 
 .rectangle4 {
   display: flex;
-  margin-top: 50px;
-  padding-bottom: 20px;
+  margin-top: 5%;
+  padding-bottom: 2%;
+  width: 100%;
 }
 #paris {
-  height: 445px;
-  width: 356px;
+  width: 15rem;
 }
 .plans {
-  width: 400px;
-  margin-top: 100px;
-  margin-left: 100px;
+  width: 40%;
+  margin-top: 10%;
+  margin-left: 10%;
 }
 .plans h4 {
   color: #df6951;
@@ -239,17 +237,17 @@ nav a {
 }
 #circle {
   position: absolute;
-  width: 90px;
-  height: 90px;
+  width: 4rem;
+  height: 4rem;
 }
 #percent {
   position: absolute;
-  width: 90px;
-  height: 90px;
+  width: 4rem;
+  height: 4rem;
 }
 .stats {
-  width: 100px;
-  height: 100px;
+  width: 5rem;
+  height: 5rem;
 }
 
 .stats h5 {
@@ -268,14 +266,12 @@ nav a {
 }
 #fifty {
   position: absolute;
-  height: 90px;
-  width: 50px;
+  width: 1.7rem;
   margin-left: 40px;
 }
 #thirty {
   position: absolute;
-  height: 70px;
-  width: 50px;
+  width: 1.7rem;
   margin-left: 41px;
 }
 .recstats h3 {
@@ -290,15 +286,16 @@ nav a {
 }
 .recstats {
   display: flex;
-  gap: 30px;
+  gap: 3%;
 }
 #pearls {
-  width: 200;
-  height: 200px;
+  width: 20rem;
 }
 
 /* rectangle5 */
-
+.rectangle5 {
+  width: 100%;
+}
 #explore {
   color: #df6951;
   font-family: Poppins;
@@ -324,11 +321,6 @@ nav a {
   align-items: center;
 }
 
-.hiker {
-  background: url(./assets/images/gray\ effect.png);
-  background-repeat: no-repeat;
-  background-size: 200px;
-}
 #effect {
   width: 200px;
   height: 200px;
@@ -358,24 +350,8 @@ nav a {
   font-weight: 600;
   line-height: normal;
 }
-.airplane {
-  background-image: url(./assets/images/gray\ effect.png);
-  background-repeat: no-repeat;
-  background-size: 200px;
-}
-.climber {
-  background-image: url(./assets/images/gray\ effect.png);
-  background-repeat: no-repeat;
-  background-size: 200px;
-}
-.angeles {
-  background-image: url(./assets/images/gray\ effect.png);
-  background-repeat: no-repeat;
-  background-size: 200px;
-}
+
 .singlep {
-  background-image: url(./assets/images/gray\ effect.png);
-  background-repeat: no-repeat;
   background-size: 200px;
   height: 410px;
   margin: 5px;
@@ -409,16 +385,7 @@ nav a {
   font-weight: 600;
   line-height: normal;
 }
-.femaleclimber {
-  background-image: url(./assets/images/gray\ effect.png);
-  background-repeat: no-repeat;
-  background-size: 200px;
-}
-.field {
-  background-image: url(./assets/images/gray\ effect.png);
-  background-repeat: no-repeat;
-  background-size: 200px;
-}
+
 .pictures1 {
   margin: 5px;
 }
@@ -428,26 +395,7 @@ nav a {
 .parentcontainer {
   display: flex;
 }
-.barcelona {
-  background-image: url(./assets/images/gray\ effect.png);
-  background-repeat: no-repeat;
-  background-size: 200px;
-}
-.maldives {
-  background-image: url(./assets/images/gray\ effect.png);
-  background-repeat: no-repeat;
-  background-size: 200px;
-}
-.barcelona1 {
-  background-image: url(./assets/images/gray\ effect.png);
-  background-repeat: no-repeat;
-  background-size: 200px;
-}
-.pakistan {
-  background-image: url(./assets/images/gray\ effect.png);
-  background-repeat: no-repeat;
-  background-size: 200px;
-}
+
 .parentcontainer2 {
   display: flex;
   margin-top: 15px;
@@ -463,10 +411,11 @@ nav a {
 
 /* rectangle 6 */
 .rectangle6 {
-  background-image: url(./assets/images/h1-background-img-1\ 1.png);
+  background-image: url("https://res.cloudinary.com/dn2xrrll5/image/upload/v1706876742/h1-background-img-1_1_z7usyq.png");
   background-repeat: no-repeat;
   flex-shrink: 0;
-  background-size: 1400px;
+  background-size: 100%;
+  height: 450px;
   padding-top: 80px;
   position: relative;
 }
@@ -482,7 +431,7 @@ nav a {
   text-transform: uppercase;
 }
 .rectangle6 h1 {
-  width: 400px;
+  width: 40%;
   flex-shrink: 0;
   color: #181e4b;
   text-align: center;
@@ -498,7 +447,7 @@ nav a {
   align-items: center;
 }
 #testimonyimage {
-  width: 500px;
+  width: 30%;
 }
 .testimony {
   display: flex;
@@ -512,28 +461,26 @@ nav a {
   margin-top: 10px;
 }
 .travel {
-  height: 250px;
-  width: 200px;
+  width: 20%;
   position: relative;
   margin-top: -175px;
 }
 #travel {
-  height: 250px;
-  width: 200px;
+  width: 20rem;
 }
 
 /* footer */
 .footer {
-  gap: 30px;
-  margin-top: 100px;
+  /* gap: 0.2%; */
+  margin-top: 25%;
   margin-bottom: 20px;
+  width: 100%;
 }
 .line1 {
-  padding-left: 180px;
+  padding-left: 8%;
 }
 #logo2 {
-  width: 150px;
-  height: 60px;
+  width: 13rem;
 }
 .logo2 h6 {
   width: 200px;
